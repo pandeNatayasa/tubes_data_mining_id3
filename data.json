@@ -1,0 +1,73 @@
+{
+    "False": {
+        "name_to_idx": {
+            "Outlook": 0,
+            "Temperature": 1,
+            "Humidity": 2,
+            "Windy": 3,
+            "PlayTennis": 4
+        },
+        "idx_to_name": {
+            "0": "Outlook",
+            "1": "Temperature",
+            "2": "Humidity",
+            "3": "Windy",
+            "4": "PlayTennis"
+        },
+        "rows": [
+            [
+                "Rainy",
+                "Mild",
+                "High",
+                "False",
+                "Yes"
+            ],
+            [
+                "Rainy",
+                "Cool",
+                "Normal",
+                "False",
+                "Yes"
+            ],
+            [
+                "Rainy",
+                "Mild",
+                "Normal",
+                "False",
+                "Yes"
+            ]
+        ]
+    },
+    "True": {
+        "name_to_idx": {
+            "Outlook": 0,
+            "Temperature": 1,
+            "Humidity": 2,
+            "Windy": 3,
+            "PlayTennis": 4
+        },
+        "idx_to_name": {
+            "0": "Outlook",
+            "1": "Temperature",
+            "2": "Humidity",
+            "3": "Windy",
+            "4": "PlayTennis"
+        },
+        "rows": [
+            [
+                "Rainy",
+                "Cool",
+                "Normal",
+                "True",
+                "No"
+            ],
+            [
+                "Rainy",
+                "Mild",
+                "High",
+                "True",
+                "No"
+            ]
+        ]
+    }
+}
